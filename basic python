@@ -1,0 +1,14 @@
+Python is a popular high-level programming language that is widely used for web development, data science, artificial intelligence, scientific computing, and many other applications. Here are some basics of Python:
+
+Data Types: Python supports a variety of data types including strings, integers, floats, booleans, and more.
+
+Variables: A variable is a name that refers to a value stored in memory. Variables in Python can be assigned different data types and values.
+
+Operators: Python supports a wide range of operators including arithmetic, comparison, logical, and bitwise operators.
+
+Control Flow: Python has constructs for control flow such as if/else statements, loops, and functions.
+
+Functions: Functions are a way to organize code into reusable blocks. Python has built-in functions, and you can also create your own functions.Here's a simple example of Python code that prints "Hello, World!" to the console:
+
+print("Hello, World!")
+This code uses the print() function to output the string "Hello, World!" to the console.
